@@ -6,6 +6,7 @@ import java.util.ArrayList;
 public class MedicionesTemperaturas
 {
     //aaaaaaaaaaaaaaaaaaa
+    //Joaquin Britos 
     
     /**
      * Contiene las mediciones de temperaturas.
